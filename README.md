@@ -1,0 +1,2 @@
+# ArtusSolver
+Solves Artus Puzzles
